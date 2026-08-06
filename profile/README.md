@@ -39,19 +39,6 @@ i prostej komunikacji.
 - **[Łatwy tekst](https://latwytekst.pl/)** – narzędzia do tworzenia tekstów łatwych do czytania i zrozumienia (ETR)
 - **[Prosty język](https://prostyjezyk.nautil.pl/)** – wsparcie w upraszczaniu komunikacji urzędowej i marketingowej
 
-## Jak budujemy oprogramowanie
-
-Projektujemy systemy z myślą o użytkowniku – nie o zgodności na papierze.
-
-- **Zgodność z WCAG 2.1 / 2.2** wpisana w proces projektowy i przeglądy kodu, nie doklejana na końcu
-- **Bezpieczeństwo danych** – ochrona danych osobowych, szyfrowanie, stabilna architektura
-- **Skalowalność** – integracje API i mikroserwisy, modernizacja istniejących produktów
-- **Interfejsy urządzeń samoobsługowych** weryfikowane w naszym laboratorium
-- **Automatyzacja procesów** wewnętrznych i obsługi klienta w prostym języku
-
-Zespół łączy kompetencje programistyczne, doświadczenie audytorskie i badania UX z udziałem
-osób z niepełnosprawnościami.
-
 ## Dla kogo pracujemy
 
 Administracja publiczna, uczelnie wyższe, instytucje kultury, placówki ochrony zdrowia,
@@ -83,10 +70,6 @@ Media społecznościowe: [Facebook @nautilpl](https://www.facebook.com/nautilpl)
 Masz projekt do skonsultowania? Napisz na [biuro@nautil.pl](mailto:biuro@nautil.pl) –
 porozmawiajmy o dostępności.
 
-## Licencja
-
-Repozytorium `.github` jest udostępniane na licencji [AGPL-3.0](../LICENSE). Warunki licencyjne
-pozostałych repozytoriów określone są w każdym z nich osobno.
 
 ---
 
