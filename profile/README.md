@@ -5,7 +5,7 @@
 
 # Nautil Sp. z o.o.
 
-**Dostępność to nie wymóg. To standard jakości.**
+**Audyt, doradztwo, szkolenia – wszystko dla dostępności**
 
 Łączymy technologię, architekturę i doświadczenia osób z niepełnosprawnościami, pomagając
 organizacjom wdrażać dostępność cyfrową oraz architektoniczną w sposób uporządkowany, zgodny
